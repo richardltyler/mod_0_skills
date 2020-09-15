@@ -1,0 +1,14 @@
+var food = 'pb & j';
+
+var is_delicious = true;
+
+food = 'chips';
+
+var num2 = 2;
+var num7 = 7;
+var quotient = (num7 / num2);
+
+var songs = ['feeling this', 'i miss you', 'always'];
+songs.shift();
+
+console.log(food.length);
